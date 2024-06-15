@@ -1,2 +1,2 @@
-# Deployment-Kubernetes-AWS
-Deployment-Kubernetes-AWS
+# Kubernetes-AWS
+Kubernetes-AWS
